@@ -1,0 +1,2 @@
+system_QN908XC.c:63:6:SystemInit	4	static
+system_QN908XC.c:144:6:SystemCoreClockUpdate	4	static

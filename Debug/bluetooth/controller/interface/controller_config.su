@@ -1,0 +1,2 @@
+controller_config.c:69:6:BLE_EnableWlanCoex	4	static
+controller_config.c:216:6:NXP_InitBleCfg	16	static

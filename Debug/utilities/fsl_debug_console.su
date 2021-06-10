@@ -1,0 +1,12 @@
+fsl_debug_console.c:242:10:DbgConsole_Init	40	static
+fsl_debug_console.c:359:10:DbgConsole_Deinit	8	static
+fsl_debug_console.c:418:5:DbgConsole_Printf	16	static
+fsl_debug_console.c:436:5:DbgConsole_Putchar	16	static
+fsl_debug_console.c:449:5:DbgConsole_Scanf	40	static
+fsl_debug_console.c:499:5:DbgConsole_Getchar	16	static
+fsl_debug_console.c:522:17:DbgConsole_ScanIgnoreWhiteSpace	24	static
+fsl_debug_console.c:546:13:DbgConsole_PrintfPaddingCharacter	32	static
+fsl_debug_console.c:569:16:DbgConsole_ConvertRadixNumToString	56	static
+fsl_debug_console.c:687:16:DbgConsole_ConvertFloatRadixNumToString	112	static
+fsl_debug_console.c:800:12:DbgConsole_PrintfFormattedData	128	static
+fsl_debug_console.c:1341:12:DbgConsole_ScanfFormattedData	64	static

@@ -1,0 +1,13 @@
+FunctionLib.c:74:6:FLib_MemCpy	24	static
+FunctionLib.c:113:6:FLib_MemCpyAligned32bit	40	static
+FunctionLib.c:208:6:FLib_MemCpyDir	24	static
+FunctionLib.c:239:6:FLib_MemCpyReverseOrder	24	static
+FunctionLib.c:276:8:FLib_MemCmp	32	static
+FunctionLib.c:320:8:FLib_MemCmpToVal	24	static
+FunctionLib.c:354:6:FLib_MemSet	24	static
+FunctionLib.c:387:6:FLib_MemInPlaceCpy	24	static
+FunctionLib.c:428:6:FLib_MemCopy16Unaligned	24	static
+FunctionLib.c:448:6:FLib_MemCopy32Unaligned	24	static
+FunctionLib.c:470:6:FLib_MemCopy64Unaligned	32	static
+FunctionLib.c:500:6:FLib_AddOffsetToPointer	16	static
+FunctionLib.c:515:10:FLib_StrLen	16	static

@@ -1,0 +1,14 @@
+private_profile_server.c:173:6:BleApp_Init	24	static
+private_profile_server.c:209:6:BleApp_Start	8	static
+private_profile_server.c:234:6:BleApp_HandleKeys	24	static
+private_profile_server.c:274:6:BleApp_GenericCallback	16	static
+private_profile_server.c:325:13:BleApp_Config	16	static
+private_profile_server.c:359:13:BleApp_Advertise	8	static
+private_profile_server.c:403:13:BleApp_AdvertisingCallback	24	static
+private_profile_server.c:452:13:BleApp_ConnectionCallback	32	static
+private_profile_server.c:538:13:BleApp_GattServerCallback	24	static
+private_profile_server.c:588:13:BleApp_ReceivedDataHandler	24	static
+private_profile_server.c:602:13:AdvertisingTimerCallback	16	static
+private_profile_server.c:640:13:QppsTxTimerCallback	32	static
+private_profile_server.c:661:13:QppsTxCallback	24	static
+private_profile_server.c:685:13:BatteryMeasurementTimerCallback	16	static

@@ -1,0 +1,13 @@
+fsl_iocon.h:96:22:IOCON_PinMuxSet	32	static
+pin_mux.c:32:6:BOARD_InitBootPins	8	static
+pin_mux.c:54:6:BOARD_InitPins	4	static
+pin_mux.c:85:6:BOARD_InitButtons	16	static
+pin_mux.c:126:6:BOARD_InitLEDs	24	static
+pin_mux.c:168:6:BOARD_InitDEBUG_UART	16	static
+pin_mux.c:224:6:BOARD_InitPMod_SPI_I2C	40	static
+pin_mux.c:298:6:BOARD_InitSWD_DEBUG	24	static
+pin_mux.c:350:6:BOARD_InitETM_TRACE	32	static
+pin_mux.c:406:6:BOARD_InitUSB	16	static
+pin_mux.c:446:6:BOARD_InitG_Sensor	24	static
+pin_mux.c:495:6:BOARD_InitSPI_FLASH	24	static
+pin_mux.c:545:6:BOARD_InitSPI	4	static

@@ -1,0 +1,2 @@
+core_cm4.h:1790:22:NVIC_SystemReset	4	static
+Reset.c:39:6:ResetMCU	8	static

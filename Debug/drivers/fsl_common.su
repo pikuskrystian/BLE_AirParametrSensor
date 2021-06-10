@@ -1,0 +1,10 @@
+core_cm4.h:1626:22:NVIC_EnableIRQ	16	static
+core_cm4.h:1637:22:NVIC_DisableIRQ	16	static
+fsl_common.h:318:24:EnableIRQ	16	static
+fsl_common.h:356:24:DisableIRQ	16	static
+fsl_common.h:386:24:DisableGlobalIRQ	16	static
+fsl_common.h:413:20:EnableGlobalIRQ	24	static
+fsl_common.c:46:6:__assert_func	32	static
+fsl_common.c:58:10:InstallIRQHandler	32	static
+fsl_common.c:137:6:EnableDeepSleepIRQ	24	static
+fsl_common.c:151:6:DisableDeepSleepIRQ	24	static

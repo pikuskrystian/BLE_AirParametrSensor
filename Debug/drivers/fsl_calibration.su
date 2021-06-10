@@ -1,0 +1,8 @@
+fsl_calibration.c:26:6:CALIB_CalibMainBangap	16	static
+fsl_calibration.c:38:6:CALIB_CalibPLL48M	16	static
+fsl_calibration.c:67:13:CALIB_CalibRC	16	static
+fsl_calibration.c:109:13:CALIB_CalibXTAL	16	static
+fsl_calibration.c:149:13:CALIB_CalibOSC32M	24	static
+fsl_calibration.c:214:13:CALIB_CalibRCO32K	16	static
+fsl_calibration.c:246:13:CALIB_PowerOn	16	static
+fsl_calibration.c:317:6:CALIB_SystemCalib	8	static

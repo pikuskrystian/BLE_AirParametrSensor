@@ -1,0 +1,8 @@
+ble_conn_manager.c:129:6:BleConnManager_GenericEvent	16	static
+ble_conn_manager.c:285:6:BleConnManager_GapPeripheralEvent	16	static
+ble_conn_manager.c:477:6:BleConnManager_GapCentralEvent	16	static
+ble_conn_manager.c:672:13:BleConnManager_EnablePrivacy	4	static
+ble_conn_manager.c:696:13:BleConnManager_DisablePrivacy	4	static
+ble_conn_manager.c:728:6:BleConnManager_GapCommonConfig	16	static
+ble_conn_manager.c:786:13:BleConnManager_MCUInfoToSmpKeys	64	static
+ble_conn_manager.c:830:13:BleConnManager_DataLengthUpdateProcedure	24	static

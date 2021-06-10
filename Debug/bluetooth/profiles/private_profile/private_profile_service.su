@@ -1,0 +1,5 @@
+private_profile_service.c:53:13:Qpp_Start	16	static
+private_profile_service.c:59:13:Qpp_Stop	16	static
+private_profile_service.c:65:13:Qpp_Subscribe	16	static
+private_profile_service.c:71:13:Qpp_Unsubscribe	4	static
+private_profile_service.c:77:13:Qpp_SendData	48	static

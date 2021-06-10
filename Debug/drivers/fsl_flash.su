@@ -1,0 +1,12 @@
+fsl_flash.h:124:24:FLASH_GetStatusFlags	4	static
+fsl_flash.h:170:24:FLASH_GetBusyStatusFlags	4	static
+fsl_flash.c:41:24:FLASH_BusyStatusCheck	8	static
+fsl_flash.c:47:24:FLASH_StatusCheck	16	static
+fsl_flash.c:78:10:FLASH_Init	16	static
+fsl_flash.c:102:6:FLASH_GetDefaultConfig	24	static
+fsl_flash.c:116:10:FLASH_Erase	40	static
+fsl_flash.c:134:10:FLASH_PageErase	16	static
+fsl_flash.c:157:10:FLASH_BlockErase	16	static
+fsl_flash.c:180:10:FLASH_Program	80	static
+fsl_flash.c:302:10:FLASH_GetLockBit	24	static
+fsl_flash.c:324:10:FLASH_SetLockBit	24	static

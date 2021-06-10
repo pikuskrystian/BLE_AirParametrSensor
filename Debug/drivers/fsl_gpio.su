@@ -1,0 +1,2 @@
+fsl_gpio.h:104:20:GPIO_WritePinOutput	24	static
+fsl_gpio.c:23:6:GPIO_PinInit	24	static

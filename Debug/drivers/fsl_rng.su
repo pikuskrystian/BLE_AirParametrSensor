@@ -1,0 +1,7 @@
+fsl_rng.h:139:24:RNG_GetStatusFlags	16	static
+fsl_rng.h:156:20:RNG_Start	16	static
+fsl_rng.h:168:24:RNG_GetRandomNumber	16	static
+fsl_adc.h:464:20:ADC_Enable	24	static
+fsl_rng.c:32:6:RNG_Drv_Init	40	static
+fsl_rng.c:62:6:RNG_Deinit	16	static
+fsl_rng.c:67:10:RNG_GetRandomData	32	static

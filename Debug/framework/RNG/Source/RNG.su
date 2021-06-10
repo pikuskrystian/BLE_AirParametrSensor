@@ -1,0 +1,6 @@
+fsl_rng.h:76:20:RNG_Enable	16	static
+RNG.c:110:9:RNG_Init	16	static
+RNG.c:268:9:RNG_HwGetRandomNo	24	static
+RNG.c:331:6:RNG_GetRandomNo	24	static
+RNG.c:352:6:RNG_SetPseudoRandomNoSeed	56	static
+RNG.c:390:9:RNG_GetPseudoRandomNo	64	static

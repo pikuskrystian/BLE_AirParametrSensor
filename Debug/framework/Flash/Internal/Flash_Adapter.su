@@ -1,0 +1,12 @@
+fsl_flash.h:124:24:FLASH_GetStatusFlags	4	static
+fsl_flash.h:135:20:FLASH_ClearStatusFlags	16	static
+Flash_Adapter.c:175:13:NV_Flash_WaitForCSEndAndDisableInterrupts	8	static
+Flash_Adapter.c:224:17:NV_FlashProgramAdaptation	32	static
+Flash_Adapter.c:338:10:SwFlashVerifyErase	24	static
+Flash_Adapter.c:384:6:NV_Init	8	static
+Flash_Adapter.c:427:6:NV_Flash_SetCriticalSection	4	static
+Flash_Adapter.c:446:6:NV_Flash_ClearCriticalSection	4	static
+Flash_Adapter.c:487:10:NV_FlashVerifyErase	24	static
+Flash_Adapter.c:526:10:NV_FlashProgram	24	static
+Flash_Adapter.c:545:10:NV_FlashProgramUnaligned	40	static
+Flash_Adapter.c:613:10:NV_FlashEraseSector	24	static

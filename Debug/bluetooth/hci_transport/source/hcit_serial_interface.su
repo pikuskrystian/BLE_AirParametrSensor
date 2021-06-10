@@ -1,0 +1,6 @@
+hcit_serial_interface.c:183:13:Hcit_Init	24	static
+hcit_serial_interface.c:247:13:Hcit_SendPacket	48	static
+hcit_serial_interface.c:294:13:Hcit_RecvPacket	32	static
+hcit_serial_interface.c:331:20:Hcit_SendMessage	8	static
+hcit_serial_interface.c:342:13:Hcit_RxCallBack	24	static
+hcit_serial_interface.c:468:13:Hcit_FreePacket	16	static

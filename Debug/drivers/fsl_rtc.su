@@ -1,0 +1,13 @@
+fsl_rtc.c:53:13:RTC_CheckDatetimeFormat	40	static
+fsl_rtc.c:85:17:RTC_ConvertDatetimeToSeconds	56	static
+fsl_rtc.c:115:13:RTC_ConvertSecondsToDatetime	56	static
+fsl_rtc.c:186:10:RTC_SetDatetime	16	static
+fsl_rtc.c:210:6:RTC_GetDatetime	24	static
+fsl_rtc.c:218:6:RTC_Calibration	16	static
+fsl_rtc.c:230:6:RTC_EnableFreeRunningReset	24	static
+fsl_rtc.c:250:6:RTC_SetFreeRunningInterruptThreshold	16	static
+fsl_rtc.c:258:6:RTC_SetFreeRunningResetThreshold	16	static
+fsl_rtc.c:266:6:RTC_FreeRunningEnable	24	static
+fsl_rtc.c:286:6:RTC_EnableInterrupts	24	static
+fsl_rtc.c:308:6:RTC_DisableInterrupts	24	static
+fsl_rtc.c:330:6:RTC_ClearStatusFlags	16	static
